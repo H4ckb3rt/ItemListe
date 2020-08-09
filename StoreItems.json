@@ -1653,7 +1653,7 @@
 	{
 		"abr": "biosolid-dünger",
 		"price": 0,
-		"category": "Abfall",
+		"category": "Fäkalien",
 		"defname": "Biosolids"
 	},
 	{
@@ -6015,7 +6015,7 @@
 	{
 		"abr": "jade",
 		"price": 8,
-		"category": "Rohstoffe",
+		"category": "Gemstones",
 		"defname": "Jade"
 	},
 	{
@@ -13667,7 +13667,1027 @@
 		"price": 2300,
 		"category": "YP weapons",
 		"defname": "YP_VectorShot"
+	},
+	{
+		"abr": "zahnprothese",
+		"price": 65,
+		"category": "Einfache Teile",
+		"defname": "denture"
+	},
+	{
+		"abr": "zeushammer",
+		"price": 3333,
+		"category": "Nahkampfwaffen",
+		"defname": "MeleeWeapon_Zeushammer"
+	},
+	{
+		"abr": "ziege",
+		"price": 333,
+		"category": "Animal",
+		"defname": "Goat"
+	},
+	{
+		"abr": "ziegenfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_Goat"
+	},
+	{
+		"abr": "zielgerät:orbitalestrahlenwaffe",
+		"price": 2000,
+		"category": "Fernkampfwaffen",
+		"defname": "OrbitalTargeterPowerBeam"
+	},
+	{
+		"abr": "zielgerät:orbitalesbombardement",
+		"price": 2000,
+		"category": "Fernkampfwaffen",
+		"defname": "OrbitalTargeterBombardment"
+	},
+	{
+		"abr": "zielgerät:tornadogenerator",
+		"price": 1333,
+		"category": "Fernkampfwaffen",
+		"defname": "TornadoGenerator"
+	},
+	{
+		"abr": "zigarillos",
+		"price": 17,
+		"category": "Drogen",
+		"defname": "Cigarillos"
+	},
+	{
+		"abr": "zubereitungstisch",
+		"price": 139,
+		"category": "Produktion",
+		"defname": "Canningstove"
+	},
+	{
+		"abr": "zuchini",
+		"price": 2,
+		"category": "Vegetarisch",
+		"defname": "Rawsquash"
+	},
+	{
+		"abr": "zucker",
+		"price": 7,
+		"category": "Zutaten",
+		"defname": "Sugar"
+	},
+	{
+		"abr": "zuckerrohr",
+		"price": 3,
+		"category": "Zutaten",
+		"defname": "Rawsugarcane"
+	},
+	{
+		"abr": "zylinder",
+		"price": 94,
+		"category": "Kopfbedeckung",
+		"defname": "Apparel_HatTop"
+	},
+	{
+		"abr": "aktenschrank",
+		"price": 74,
+		"category": "Möbel",
+		"defname": "Anon2FileCabinet"
+	},
+	{
+		"abr": "amethyst",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Amethyst"
+	},
+	{
+		"abr": "ammobox",
+		"price": 600,
+		"category": "Möbel",
+		"defname": "JDSAmmo_BoxA"
+	},
+	{
+		"abr": "ammobox",
+		"price": 1983,
+		"category": "Möbel",
+		"defname": "JDSAmmo_BoxB"
+	},
+	{
+		"abr": "ammobox",
+		"price": 3142,
+		"category": "Möbel",
+		"defname": "JDSAmmo_BoxC"
+	},
+	{
+		"abr": "ammocrate",
+		"price": 169,
+		"category": "Möbel",
+		"defname": "JDSAmmo_Crate"
+	},
+	{
+		"abr": "ammocratepiles",
+		"price": 1533,
+		"category": "Möbel",
+		"defname": "JDSAmmo_Crate_Piles"
+	},
+	{
+		"abr": "bankvault",
+		"price": 21983,
+		"category": "Möbel",
+		"defname": "JDSBank_Vault"
+	},
+	{
+		"abr": "barrel",
+		"price": 204,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Barrel"
+	},
+	{
+		"abr": "barrelpile",
+		"price": 675,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Barrel_Pile"
+	},
+	{
+		"abr": "basket",
+		"price": 37,
+		"category": "Möbel",
+		"defname": "JDS_Basket"
+	},
+	{
+		"abr": "beercrate",
+		"price": 161,
+		"category": "Möbel",
+		"defname": "JDSBeer_Crate"
+	},
+	{
+		"abr": "blastturret",
+		"price": 1800,
+		"category": "Sicherheit",
+		"defname": "BlastTurretGun"
+	},
+	{
+		"abr": "boombat",
+		"price": 250,
+		"category": "Animal",
+		"defname": "AEXP_Boombat"
+	},
+	{
+		"abr": "bulkwater",
+		"price": 264,
+		"category": "Möbel",
+		"defname": "JDS_Bulk_Water"
+	},
+	{
+		"abr": "bundleswrap",
+		"price": 116,
+		"category": "Möbel",
+		"defname": "JDS_Bundles_Wrap"
+	},
+	{
+		"abr": "bundleswrapbig",
+		"price": 191,
+		"category": "Möbel",
+		"defname": "JDS_Bundles_Wrap_Big"
+	},
+	{
+		"abr": "bundleswrappile",
+		"price": 154,
+		"category": "Möbel",
+		"defname": "JDS_Bundles_Wrap_Pile"
+	},
+	{
+		"abr": "chalcedony",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Chalcedony"
+	},
+	{
+		"abr": "chemfuelpump",
+		"price": 89,
+		"category": "Möbel",
+		"defname": "JDS_ChemfuelPump"
+	},
+	{
+		"abr": "chemfuelstorage",
+		"price": 425,
+		"category": "Möbel",
+		"defname": "JDS_Chemfuel_Storage"
+	},
+	{
+		"abr": "chemfuelstoragelarge",
+		"price": 1475,
+		"category": "Möbel",
+		"defname": "JDS_Large_Chemfuel_Storage"
+	},
+	{
+		"abr": "chirashizushibowl(simple)",
+		"price": 25,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Chirashizushi"
+	},
+	{
+		"abr": "citrine",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Citrine"
+	},
+	{
+		"abr": "couchcenter",
+		"price": 375,
+		"category": "Möbel",
+		"defname": "Anon2CouchCenter"
+	},
+	{
+		"abr": "couchecke",
+		"price": 375,
+		"category": "Möbel",
+		"defname": "Anon2CouchCorner"
+	},
+	{
+		"abr": "coucheckeinvertiert",
+		"price": 375,
+		"category": "Möbel",
+		"defname": "Anon2CouchCornerInv"
+	},
+	{
+		"abr": "couchlinks",
+		"price": 375,
+		"category": "Möbel",
+		"defname": "Anon2CouchLeft"
+	},
+	{
+		"abr": "couchrechts",
+		"price": 375,
+		"category": "Möbel",
+		"defname": "Anon2CouchRight"
+	},
+	{
+		"abr": "cratea",
+		"price": 170,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate"
+	},
+	{
+		"abr": "cratea2",
+		"price": 400,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate_Two"
+	},
+	{
+		"abr": "cratea3",
+		"price": 667,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate_Three"
+	},
+	{
+		"abr": "cratea4",
+		"price": 1167,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate_four"
+	},
+	{
+		"abr": "crateb",
+		"price": 237,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate_B"
+	},
+	{
+		"abr": "cratec",
+		"price": 237,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate_C"
+	},
+	{
+		"abr": "cratelarge",
+		"price": 1675,
+		"category": "Möbel",
+		"defname": "JDS_Wooden_Crate_Large"
+	},
+	{
+		"abr": "deepfriedsushi",
+		"price": 3,
+		"category": "Mahlzeiten",
+		"defname": "VCE_DeepFriedSushi"
+	},
+	{
+		"abr": "diamond",
+		"price": 83,
+		"category": "Gemstones",
+		"defname": "Z_Diamond"
+	},
+	{
+		"abr": "emerald",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Emerald"
+	},
+	{
+		"abr": "futomaki(lavish)",
+		"price": 67,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Futomaki"
+	},
+	{
+		"abr": "garnet",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Garnet"
+	},
+	{
+		"abr": "gepolsterterstuhl",
+		"price": 195,
+		"category": "Möbel",
+		"defname": "Anon2CushionedChair"
+	},
+	{
+		"abr": "guncomplex",
+		"price": 1142,
+		"category": "Sicherheit",
+		"defname": "GunComplex"
+	},
+	{
+		"abr": "gunkanmaki(gourmet)",
+		"price": 125,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Gunkanmaki"
+	},
+	{
+		"abr": "industrialdumpster",
+		"price": 203,
+		"category": "Möbel",
+		"defname": "JDSIndustrial_Dumpster"
+	},
+	{
+		"abr": "industrialdumpster(chunk)",
+		"price": 203,
+		"category": "Möbel",
+		"defname": "JDS_Industrial_Dumpster_Chunk"
+	},
+	{
+		"abr": "industrialdumpster(slag)",
+		"price": 203,
+		"category": "Möbel",
+		"defname": "JDS_Industrial_Dumpster_Slag"
+	},
+	{
+		"abr": "industrialshelf(empty)",
+		"price": 1717,
+		"category": "Möbel",
+		"defname": "JDSIndustrial_shelf_empty"
+	},
+	{
+		"abr": "industrialshelf(full)",
+		"price": 5783,
+		"category": "Möbel",
+		"defname": "JDSIndustrial_shelf"
+	},
+	{
+		"abr": "kangaroo",
+		"price": 417,
+		"category": "Animal",
+		"defname": "AEXP_Kangaroo"
+	},
+	{
+		"abr": "kangaroofleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_AEXP_Kangaroo"
+	},
+	{
+		"abr": "koala",
+		"price": 125,
+		"category": "Animal",
+		"defname": "AEXP_Koala"
+	},
+	{
+		"abr": "koalafleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_AEXP_Koala"
+	},
+	{
+		"abr": "kommode",
+		"price": 172,
+		"category": "Möbel",
+		"defname": "Anon2Dresser"
+	},
+	{
+		"abr": "königlichesnachttisch",
+		"price": 442,
+		"category": "Möbel",
+		"defname": "Anon2RoyalEndTable"
+	},
+	{
+		"abr": "königlichesnachttisch(lampe)",
+		"price": 492,
+		"category": "Möbel",
+		"defname": "Anon2RoyalEndTableLight"
+	},
+	{
+		"abr": "lapis",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Lapis"
+	},
+	{
+		"abr": "largecanpallet",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_Can_Pallet"
+	},
+	{
+		"abr": "largelocker",
+		"price": 170,
+		"category": "Möbel",
+		"defname": "JDSLarge_locker"
+	},
+	{
+		"abr": "largepallet",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_Pallet"
+	},
+	{
+		"abr": "largepalleta",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_A_Pallet"
+	},
+	{
+		"abr": "largepalletb",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_B_Pallet"
+	},
+	{
+		"abr": "largepalletc",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_C_Pallet"
+	},
+	{
+		"abr": "largepalletd",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_D_Pallet"
+	},
+	{
+		"abr": "largepallete",
+		"price": 120,
+		"category": "Möbel",
+		"defname": "JDS_Large_E_Pallet"
+	},
+	{
+		"abr": "largepostbox",
+		"price": 87,
+		"category": "Möbel",
+		"defname": "JDS_Large_Post_Box"
+	},
+	{
+		"abr": "mannedblastturret",
+		"price": 1567,
+		"category": "Sicherheit",
+		"defname": "BlastTurretGunManned"
+	},
+	{
+		"abr": "mannedmilitarygradeturret",
+		"price": 958,
+		"category": "Sicherheit",
+		"defname": "MilitaryTurretGunManned"
+	},
+	{
+		"abr": "mannedprecisionturret",
+		"price": 1400,
+		"category": "Sicherheit",
+		"defname": "PrecisionTurretGunManned"
+	},
+	{
+		"abr": "mannedshredderturret",
+		"price": 1400,
+		"category": "Sicherheit",
+		"defname": "ShredderTurretGunManned"
+	},
+	{
+		"abr": "medstorage",
+		"price": 224,
+		"category": "Möbel",
+		"defname": "JDS_Med_Storage"
+	},
+	{
+		"abr": "metalcrate",
+		"price": 264,
+		"category": "Möbel",
+		"defname": "JDS_Metal_Crate"
+	},
+	{
+		"abr": "metalcratebiggerpile",
+		"price": 1525,
+		"category": "Möbel",
+		"defname": "JDS_Metal_Crate_Bigger_Pile"
+	},
+	{
+		"abr": "metalcratepile",
+		"price": 800,
+		"category": "Möbel",
+		"defname": "JDS_Metal_Crate_Pile"
+	},
+	{
+		"abr": "metalcratesmallpile",
+		"price": 425,
+		"category": "Möbel",
+		"defname": "JDS_Metal_Crate_Small_Pile"
+	},
+	{
+		"abr": "metalshelfa(empty)",
+		"price": 650,
+		"category": "Möbel",
+		"defname": "JDSMetal_Shelf_A"
+	},
+	{
+		"abr": "metalshelfa(full)",
+		"price": 425,
+		"category": "Möbel",
+		"defname": "JDSMetal_Shelf_A_Full"
+	},
+	{
+		"abr": "metalshelfb(empty)",
+		"price": 675,
+		"category": "Möbel",
+		"defname": "JDSMetal_Shelf_B"
+	},
+	{
+		"abr": "metalshelfb(full)",
+		"price": 425,
+		"category": "Möbel",
+		"defname": "JDSMetal_Shelf_B_Full"
+	},
+	{
+		"abr": "militarygradecratelarge",
+		"price": 2225,
+		"category": "Möbel",
+		"defname": "JDSMilitary_Grade_crate_Large"
+	},
+	{
+		"abr": "militarygradecratelong",
+		"price": 917,
+		"category": "Möbel",
+		"defname": "JDSMilitary_Grade_Crate_Long"
+	},
+	{
+		"abr": "militarygradecratesmall",
+		"price": 550,
+		"category": "Möbel",
+		"defname": "JDSMilitaryGradeCrateSmall"
+	},
+	{
+		"abr": "militarygradecratesmallpile",
+		"price": 3008,
+		"category": "Möbel",
+		"defname": "JDSMilitary_Grade_Crate_Small_Pile"
+	},
+	{
+		"abr": "militarygradeturret",
+		"price": 1108,
+		"category": "Sicherheit",
+		"defname": "MilitaryTurretGun"
+	},
+	{
+		"abr": "nachttisch",
+		"price": 103,
+		"category": "Möbel",
+		"defname": "Anon2EndTable"
+	},
+	{
+		"abr": "nachttisch(lampe)",
+		"price": 151,
+		"category": "Möbel",
+		"defname": "Anon2EndTableLight"
+	},
+	{
+		"abr": "nigiri(fine)",
+		"price": 33,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Nigiri"
+	},
+	{
+		"abr": "norimaki(simple)",
+		"price": 25,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Norimaki"
+	},
+	{
+		"abr": "oshizushi(gourmet)",
+		"price": 125,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Oshizushi"
+	},
+	{
+		"abr": "pallet",
+		"price": 20,
+		"category": "Möbel",
+		"defname": "JDSPallet"
+	},
+	{
+		"abr": "palletbox",
+		"price": 307,
+		"category": "Möbel",
+		"defname": "JDSPallet_Box"
+	},
+	{
+		"abr": "palletcan",
+		"price": 64,
+		"category": "Möbel",
+		"defname": "JDSPallet_Can"
+	},
+	{
+		"abr": "palletcontainer",
+		"price": 342,
+		"category": "Möbel",
+		"defname": "JDSPallet_Container"
+	},
+	{
+		"abr": "palletcrate",
+		"price": 70,
+		"category": "Möbel",
+		"defname": "JDSPallet_Crate"
+	},
+	{
+		"abr": "penguin",
+		"price": 200,
+		"category": "Animal",
+		"defname": "AEXP_Penguin"
+	},
+	{
+		"abr": "penguinegg(fert.)",
+		"price": 32,
+		"category": "Ei (befr.)",
+		"defname": "AEXP_EggPenguinFertilized"
+	},
+	{
+		"abr": "pinnipedleather",
+		"price": 8,
+		"category": "Leder",
+		"defname": "AEXP_Leather_Pinniped"
+	},
+	{
+		"abr": "pinnipedmeat",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_AEXP_Seal"
+	},
+	{
+		"abr": "platypus",
+		"price": 200,
+		"category": "Animal",
+		"defname": "AEXP_Platypus"
+	},
+	{
+		"abr": "platypusegg(fert.)",
+		"price": 15,
+		"category": "Ei (befr.)",
+		"defname": "AEXP_EggPlatypusFertilized"
+	},
+	{
+		"abr": "platypusleather",
+		"price": 15,
+		"category": "Leder",
+		"defname": "AEXP_Leather_Platypus"
+	},
+	{
+		"abr": "platypusfleisch",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "Meat_AEXP_Platypus"
+	},
+	{
+		"abr": "precisionturret",
+		"price": 1600,
+		"category": "Sicherheit",
+		"defname": "PrecisionTurretGun"
+	},
+	{
+		"abr": "quadratischerblumentopf",
+		"price": 53,
+		"category": "Möbel",
+		"defname": "Anon2SquarePlantPot"
+	},
+	{
+		"abr": "quadratischeresszimmerstuhl",
+		"price": 186,
+		"category": "Möbel",
+		"defname": "Anon2SquareDiningChair"
+	},
+	{
+		"abr": "quartz",
+		"price": 3,
+		"category": "Gemstones",
+		"defname": "Z_Quartz"
+	},
+	{
+		"abr": "rawfish",
+		"price": 3,
+		"category": "Fleisch",
+		"defname": "AEXP_RawFish"
+	},
+	{
+		"abr": "resourcescrate1",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_1ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate10",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_10ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate2",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_2ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate3",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_3ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate4",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_4ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate5",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_5ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate6",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_6ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate7",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_7ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate8",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_8ResourcesCrate"
+	},
+	{
+		"abr": "resourcescrate9",
+		"price": 134,
+		"category": "Möbel",
+		"defname": "JDS_9ResourcesCrate"
+	},
+	{
+		"abr": "rocketcomplex",
+		"price": 1192,
+		"category": "Sicherheit",
+		"defname": "RocketComplex"
+	},
+	{
+		"abr": "ruby",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Ruby"
+	},
+	{
+		"abr": "safe",
+		"price": 267,
+		"category": "Möbel",
+		"defname": "JDSSafe"
+	},
+	{
+		"abr": "sapphire",
+		"price": 60,
+		"category": "Gemstones",
+		"defname": "Z_Sapphire"
+	},
+	{
+		"abr": "seal",
+		"price": 333,
+		"category": "Animal",
+		"defname": "AEXP_Seal"
+	},
+	{
+		"abr": "serpentine",
+		"price": 8,
+		"category": "Gemstones",
+		"defname": "Z_Serpentine"
+	},
+	{
+		"abr": "shelfa(empty)",
+		"price": 209,
+		"category": "Möbel",
+		"defname": "JDSShelf_A_Empty"
+	},
+	{
+		"abr": "shelfa(full)",
+		"price": 209,
+		"category": "Möbel",
+		"defname": "JDSShelf_A_Full"
+	},
+	{
+		"abr": "shippingcontainerblue",
+		"price": 9033,
+		"category": "Möbel",
+		"defname": "JDSShippingContainerBlue"
+	},
+	{
+		"abr": "shippingcontainergreen",
+		"price": 9783,
+		"category": "Möbel",
+		"defname": "JDSShippingContainerGreen"
+	},
+	{
+		"abr": "shippingcontainerred",
+		"price": 9783,
+		"category": "Möbel",
+		"defname": "JDSShippingContainerRed"
+	},
+	{
+		"abr": "shredderturret",
+		"price": 1600,
+		"category": "Sicherheit",
+		"defname": "ShredderTurretGun"
+	},
+	{
+		"abr": "silo",
+		"price": 900,
+		"category": "Möbel",
+		"defname": "JDSSilo"
+	},
+	{
+		"abr": "smallerlocker",
+		"price": 170,
+		"category": "Möbel",
+		"defname": "JDSmaller_locker"
+	},
+	{
+		"abr": "soysauce",
+		"price": 25,
+		"category": "Condiments",
+		"defname": "VCE_SoySauce"
+	},
+	{
+		"abr": "soysaucefermenter",
+		"price": 119,
+		"category": "Produktion",
+		"defname": "VCE_SoyFermenter"
+	},
+	{
+		"abr": "soybeans",
+		"price": 2,
+		"category": "Vegetarisch",
+		"defname": "VCE_RawSoybean"
+	},
+	{
+		"abr": "stehleuchte(cyan)",
+		"price": 49,
+		"category": "Möbel",
+		"defname": "StandingLamp_Aqua"
+	},
+	{
+		"abr": "stehleuchte(gelb)",
+		"price": 49,
+		"category": "Möbel",
+		"defname": "StandingLamp_Yellow"
+	},
+	{
+		"abr": "stehleuchte(hellgrün)",
+		"price": 49,
+		"category": "Möbel",
+		"defname": "StandingLamp_Lime"
+	},
+	{
+		"abr": "stehleuchte(lila)",
+		"price": 49,
+		"category": "Möbel",
+		"defname": "StandingLamp_Purple"
+	},
+	{
+		"abr": "stehleuchte(magenta)",
+		"price": 49,
+		"category": "Möbel",
+		"defname": "StandingLamp_Magenta"
+	},
+	{
+		"abr": "stehleuchte(orange)",
+		"price": 49,
+		"category": "Möbel",
+		"defname": "StandingLamp_Orange"
+	},
+	{
+		"abr": "sushipreptable",
+		"price": 165,
+		"category": "Produktion",
+		"defname": "VCE_SushiPrepTable"
+	},
+	{
+		"abr": "temaki(lavish)",
+		"price": 67,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Temaki"
+	},
+	{
+		"abr": "tisch(winzig)",
+		"price": 54,
+		"category": "Möbel",
+		"defname": "Anon2TableTiny"
+	},
+	{
+		"abr": "toolbox",
+		"price": 4092,
+		"category": "Möbel",
+		"defname": "JDSTool_Box"
+	},
+	{
+		"abr": "tresen",
+		"price": 38,
+		"category": "Möbel",
+		"defname": "Anon2CounterA"
+	},
+	{
+		"abr": "tresenvoll",
+		"price": 38,
+		"category": "Möbel",
+		"defname": "Anon2CounterAFull"
+	},
+	{
+		"abr": "turquoise",
+		"price": 7,
+		"category": "Gemstones",
+		"defname": "Z_Turquoise"
+	},
+	{
+		"abr": "uramaki(fine)",
+		"price": 33,
+		"category": "Mahlzeiten",
+		"defname": "VCE_Uramaki"
+	},
+	{
+		"abr": "vendingmachinea",
+		"price": 170,
+		"category": "Möbel",
+		"defname": "JDSVending_Machine"
+	},
+	{
+		"abr": "vendingmachineb",
+		"price": 170,
+		"category": "Möbel",
+		"defname": "JDSVending_Machine_two"
+	},
+	{
+		"abr": "verziertenblumentopf",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "Anon2OrnatePlantPot"
+	},
+	{
+		"abr": "verziertenquadratischenblumentopf",
+		"price": 155,
+		"category": "Möbel",
+		"defname": "Anon2OrnateSquarePlantPot"
+	},
+	{
+		"abr": "walrus",
+		"price": 917,
+		"category": "Animal",
+		"defname": "AEXP_Walrus"
+	},
+	{
+		"abr": "walrustusk",
+		"price": 133,
+		"category": "Gegenstände",
+		"defname": "AEXP_WalrusTusk"
+	},
+	{
+		"abr": "wasabi",
+		"price": 2,
+		"category": "Vegetarisch",
+		"defname": "VCE_RawWasabi"
+	},
+	{
+		"abr": "wasabipaste",
+		"price": 5,
+		"category": "Condiments",
+		"defname": "VCE_WasabiPaste"
+	},
+	{
+		"abr": "wheelbarrow",
+		"price": 54,
+		"category": "Möbel",
+		"defname": "JDSwheelbarrow"
 	}
 	],
-	"total": 2292
+	"total": 2448
 }
