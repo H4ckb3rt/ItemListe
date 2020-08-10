@@ -1137,31 +1137,31 @@
 	{
 		"abr": "bauroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Builder_I_disabled"
 	},
 	{
 		"abr": "bauroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Builder_II_disabled"
 	},
 	{
 		"abr": "bauroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Builder_III_disabled"
 	},
 	{
 		"abr": "bauroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Builder_IV_disabled"
 	},
 	{
 		"abr": "bauroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Builder_V_disabled"
 	},
 	{
@@ -3885,7 +3885,7 @@
 	{
 		"abr": "energieschildgürtel",
 		"price": 650,
-		"category": "Rüstung",
+		"category": "Hilfsmittel",
 		"defname": "Apparel_ShieldBelt"
 	},
 	{
@@ -4083,31 +4083,31 @@
 	{
 		"abr": "fertigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Crafter_I_disabled"
 	},
 	{
 		"abr": "fertigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Crafter_II_disabled"
 	},
 	{
 		"abr": "fertigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Crafter_III_disabled"
 	},
 	{
 		"abr": "fertigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Crafter_IV_disabled"
 	},
 	{
 		"abr": "fertigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Crafter_V_disabled"
 	},
 	{
@@ -6483,31 +6483,31 @@
 	{
 		"abr": "küchenroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Kitchen_I_disabled"
 	},
 	{
 		"abr": "küchenroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Kitchen_II_disabled"
 	},
 	{
 		"abr": "küchenroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Kitchen_III_disabled"
 	},
 	{
 		"abr": "küchenroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Kitchen_IV_disabled"
 	},
 	{
 		"abr": "küchenroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Kitchen_V_disabled"
 	},
 	{
@@ -6887,18 +6887,6 @@
 		"price": 170,
 		"category": "Diverses",
 		"defname": "LightColumnMod"
-	},
-	{
-		"abr": "lightmarinearmor",
-		"price": 2183,
-		"category": "Kleidung",
-		"defname": "VAE_Apparel_LightMarineArmor"
-	},
-	{
-		"abr": "lightmarinehelmet",
-		"price": 733,
-		"category": "Kopfbedeckung",
-		"defname": "VAE_Headgear_LightMarineHelmet"
 	},
 	{
 		"abr": "lightplatearmor",
@@ -8325,73 +8313,73 @@
 	{
 		"abr": "neurotrainer(bergbau)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Mining"
 	},
 	{
 		"abr": "neurotrainer(fernkampf)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Shooting"
 	},
 	{
 		"abr": "neurotrainer(geistig)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Intellectual"
 	},
 	{
 		"abr": "neurotrainer(handwerk)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Crafting"
 	},
 	{
 		"abr": "neurotrainer(kochen)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Cooking"
 	},
 	{
 		"abr": "neurotrainer(konstruktion)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Construction"
 	},
 	{
 		"abr": "neurotrainer(kunst)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Artistic"
 	},
 	{
 		"abr": "neurotrainer(medizin)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Medicine"
 	},
 	{
 		"abr": "neurotrainer(nahkampf)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Melee"
 	},
 	{
 		"abr": "neurotrainer(pflanzen)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Plants"
 	},
 	{
 		"abr": "neurotrainer(sozial)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Social"
 	},
 	{
 		"abr": "neurotrainer(tiere)",
 		"price": 1250,
-		"category": "Neurotrainer",
+		"category": "Fähigkeitstrainer",
 		"defname": "Neurotrainer_Animals"
 	},
 	{
@@ -8451,31 +8439,31 @@
 	{
 		"abr": "notfallroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_ER_I_disabled"
 	},
 	{
 		"abr": "notfallroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_ER_II_disabled"
 	},
 	{
 		"abr": "notfallroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_ER_III_disabled"
 	},
 	{
 		"abr": "notfallroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_ER_IV_disabled"
 	},
 	{
 		"abr": "notfallroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_ER_V_disabled"
 	},
 	{
@@ -9975,7 +9963,7 @@
 	{
 		"abr": "rauchwandgürtel",
 		"price": 277,
-		"category": "Kleidung",
+		"category": "Hilfsmittel",
 		"defname": "Apparel_SmokepopBelt"
 	},
 	{
@@ -10125,31 +10113,31 @@
 	{
 		"abr": "reinigungsbot(disabled)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Cleaner_disabled"
 	},
 	{
 		"abr": "reinigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Cleaner_II_disabled"
 	},
 	{
 		"abr": "reinigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Cleaner_III_disabled"
 	},
 	{
 		"abr": "reinigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Cleaner_IV_disabled"
 	},
 	{
 		"abr": "reinigungsroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Cleaner_V_disabled"
 	},
 	{
@@ -10805,12 +10793,6 @@
 		"price": 2,
 		"category": "Vegetarisch",
 		"defname": "Rawsnowbeet"
-	},
-	{
-		"abr": "schockverursachendepsycholanze",
-		"price": 917,
-		"category": "Artefakte",
-		"defname": "PsychicShockLance"
 	},
 	{
 		"abr": "schokolade",
@@ -12423,7 +12405,7 @@
 	{
 		"abr": "transportbot(disabled)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Hauler_disabled"
 	},
 	{
@@ -12441,25 +12423,25 @@
 	{
 		"abr": "transportroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Hauler_II_disabled"
 	},
 	{
 		"abr": "transportroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Hauler_III_disabled"
 	},
 	{
 		"abr": "transportroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Hauler_IV_disabled"
 	},
 	{
 		"abr": "transportroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "AIRobot_Hauler_V_disabled"
 	},
 	{
@@ -12687,7 +12669,7 @@
 	{
 		"abr": "universalroboter(deaktiviert)",
 		"price": 42,
-		"category": "Robots",
+		"category": "Mechanoidenleichen",
 		"defname": "RPP_Bot_Omni_V_disabled"
 	},
 	{
@@ -12695,84 +12677,6 @@
 		"price": 19092,
 		"category": "Möbel",
 		"defname": "RPP_RechargeStation_Omni_V"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightRedVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightGreenVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightBlueVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightYellowVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightMagentaVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightCyanVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightRoseVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightVioletVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightAzureVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightSpringGreenVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightChartreuseVII"
-	},
-	{
-		"abr": "unuseddonottranslate",
-		"price": 16,
-		"category": "Möbel",
-		"defname": "Lighting_MURWallLightOrangeVII"
 	},
 	{
 		"abr": "üppigemahlzeit",
@@ -12887,12 +12791,6 @@
 		"price": 2075,
 		"category": "Ultratech",
 		"defname": "AdvancedBionicEar"
-	},
-	{
-		"abr": "verrücktmachendepsycholanze",
-		"price": 1083,
-		"category": "Artefakte",
-		"defname": "PsychicInsanityLance"
 	},
 	{
 		"abr": "verstärkterwaffenschrank",
@@ -13695,13 +13593,13 @@
 	{
 		"abr": "zielgerät:orbitalestrahlenwaffe",
 		"price": 2000,
-		"category": "Fernkampfwaffen",
+		"category": "Hilfsmittel",
 		"defname": "OrbitalTargeterPowerBeam"
 	},
 	{
 		"abr": "zielgerät:orbitalesbombardement",
 		"price": 2000,
-		"category": "Fernkampfwaffen",
+		"category": "Hilfsmittel",
 		"defname": "OrbitalTargeterBombardment"
 	},
 	{
@@ -14687,7 +14585,49 @@
 		"price": 54,
 		"category": "Möbel",
 		"defname": "JDSwheelbarrow"
-	}
+	},
+	{
+		"abr": "chainlinkfence",
+		"price": 17,
+		"category": "",
+		"defname": "ChainFence"
+	},
+	{
+		"abr": "chainlinkfencegate",
+		"price": 34,
+		"category": "",
+		"defname": "ChainFenceGate"
+	},
+	{
+		"abr": "chainlinkfencegate",
+		"price": 34,
+		"category": "",
+		"defname": "ChainFenceGateB"
+	},
+	{
+		"abr": "devastatormortar",
+		"price": 4825,
+		"category": "",
+		"defname": "Turret_DevastatorMortarBomb"
+	},
+	{
+		"abr": "fence",
+		"price": 7,
+		"category": "",
+		"defname": "WoodFence"
+	},
+	{
+		"abr": "fencegate",
+		"price": 18,
+		"category": "",
+		"defname": "WoodFenceGate"
+	},
+	{
+		"abr": "fencegate",
+		"price": 18,
+		"category": "",
+		"defname": "WoodFenceGateB"
+	},
 	],
-	"total": 2448
+	"total": 2462
 }
